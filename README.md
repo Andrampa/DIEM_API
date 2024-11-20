@@ -43,6 +43,6 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/project_name.git
-   cd project_name
+   git clone https://github.com/Andrampa/DIEM_API.git
+   cd DIEM_API
 . For more information, visit https://data-in-emergencies.fao.org/
