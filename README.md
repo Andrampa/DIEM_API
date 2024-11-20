@@ -16,7 +16,9 @@ You can Install the library using `pip install arcgis`.
 For more details, [Refer to the ArcGIS API for Python Documentation](https://developers.arcgis.com/python/latest/) 
 
 Download Field descriptions and metadata
-To understand the structure and content of the DIEM datasets, download the field description tables, metadata, and questionnaires from the [DIEM data access page](https://data-in-emergencies.fao.org/pages/data/). These resources provide necessary information about the available fields and their purposes. Make sure to refer to these descriptions when working with the data.
+To understand the structure and content of the DIEM datasets, download the field description tables, metadata, and questionnaires from the [DIEM data access page](https://data-in-emergencies.fao.org/pages/data/), after logging in with your DIEM credentials. These resources provide necessary information about the available fields and their purposes. Make sure to refer to these descriptions when working with the data.
+
+---
 
 ## Features
 
