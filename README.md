@@ -8,6 +8,8 @@ It supports filtering based on specific conditions and exporting data in formats
 ---
 
 ## Prerequisites
+To programmatically download data from the DIEM Monitoring System, you must first [create a DIEM account](https://hqfao.maps.arcgis.com/sharing/rest/oauth2/signup?client_id=aEXLMtXxljlIrgPN&response_type=token&expiration=20160&showSocialLogins=true&locale=en-us&redirect_uri=https%3A%2F%2Fdata-in-emergencies.fao.org%2Ftorii-provider-arcgis%2Fhub-redirect.html). After creating your account, please allow a few minutes for the necessary privileges to be assigned before you can access the DIEM API.
+
 Install ArcGIS API for Python 
 This project requires the ArcGIS API for Python, which is freely available. 
  
