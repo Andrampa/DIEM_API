@@ -33,6 +33,7 @@ To understand the structure and content of the DIEM datasets, download the [fiel
 
 ## Prerequisites
 
+First [create a DIEM account](https://hqfao.maps.arcgis.com/sharing/rest/oauth2/signup?client_id=aEXLMtXxljlIrgPN&response_type=token&expiration=20160&showSocialLogins=true&locale=en-us&redirect_uri=https%3A%2F%2Fdata-in-emergencies.fao.org%2Ftorii-provider-arcgis%2Fhub-redirect.html), if you don't have one yet.
 Ensure you have the following installed:
 
 - Python 3.6 or newer
@@ -48,3 +49,6 @@ Ensure you have the following installed:
    git clone https://github.com/Andrampa/DIEM_API.git
    cd DIEM_API
 . For more information, visit https://data-in-emergencies.fao.org/
+
+## Assistance and technical support
+If you experience any issues accessing DIEM data or with your DIEM account, please [reach out to the DIEM Hub](https://data-in-emergencies.fao.org/pages/contactus) team for technical support.
