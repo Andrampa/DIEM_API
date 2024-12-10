@@ -50,5 +50,17 @@ Ensure you have the following installed:
    cd DIEM_API
 . For more information, visit https://data-in-emergencies.fao.org/
 
+## How to run the notebook
+
+1. Ensure that you have a working python environment and the arcgis api for python installed.
+2. Open a terminal or command prompt in the cloned repository's directory.
+3. Start jupyter notebook:
+   ```bash
+   jupyter notebook
+4. Update the `USERNAME` and `PASS` variables in the notebook with your diem credentials.  
+5. Open a terminal or command prompt in the cloned repository's directory.
+6. Run the notebook cells sequentially to execute the code and download or export the data.
+
+
 ## Assistance and technical support
 If you experience any issues accessing DIEM data or with your DIEM account, please [reach out to the DIEM Hub](https://data-in-emergencies.fao.org/pages/contactus) team for technical support.
