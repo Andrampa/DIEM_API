@@ -57,9 +57,10 @@ Ensure you have the following installed:
 3. Start jupyter notebook:
    ```bash
    jupyter notebook
-4. Update the `USERNAME` and `PASS` variables in the notebook with your diem credentials.  
-5. Open a terminal or command prompt in the cloned repository's directory.
-6. Run the notebook cells sequentially to execute the code and download or export the data.
+4. Navigate to the notebook DIEM_API/DIEM_API_get_aggregated_survey_data.ipynb
+5. Update the `USERNAME` and `PASS` variables in the notebook with your diem credentials.  
+6. Open a terminal or command prompt in the cloned repository's directory.
+7. Run the notebook cells sequentially to execute the code and download or export the data.
 
 
 ## Assistance and technical support
